@@ -1,4 +1,4 @@
-# ITEM(B2B, B2C를 겨냥한 IT 플랫폼)
+<span style='background-color:#D0E4FC'># ITEM(B2B, B2C를 겨냥한 IT 플랫폼)</span>
 ## 1. 기간
 2023. 03 ~ 2023. 06
 
