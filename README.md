@@ -1,1 +1,1 @@
-![item_1](https://github.com/cjfals9626/ITEM_FRONT/assets/81482706/dc5e5aa9-7aa1-4a29-bddd-3f50e28bebaa)
+ITEM(B2B, B2C를 겨냥한 IT 플랫폼)
